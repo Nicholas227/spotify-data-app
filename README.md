@@ -56,6 +56,7 @@ Utilizes the Spotify Web API for authentication and data collection, uses sklear
    -  If all of the dependancies have been installed, run python app.py to run the Flask app locally.
    
    - Dependencies are located in requirements.txt
+    -Te
 
       
 
